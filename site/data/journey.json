@@ -1,0 +1,325 @@
+[
+  {
+    "year": 2026,
+    "color": "#E8392B",
+    "cover": "/media/gallery/google.jpg",
+    "photos": [
+      {
+        "image": "/media/journey/2026/io-welcome.jpg",
+        "caption": "Welcome to #GoogleIO",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2026/io-mic.jpg",
+        "caption": "asking a question at Google I/O",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/gallery/google.jpg",
+        "caption": "at Google ✦",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/gallery/frog.jpg",
+        "caption": "with VP APAC ✦",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2026/mc-google-wall.jpg",
+        "caption": "MC-ing at Google",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2026/ittc-plaque.jpg",
+        "caption": "Seminar IITC 2026, Purwokerto",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2026/pakuan-stage.jpg",
+        "caption": "on stage @ Universitas Pakuan",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/gallery/seminar.jpg",
+        "caption": "Seminar IITC 2026",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2026/career-talk-cert.jpg",
+        "caption": "Career Talk Series #3",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/gallery/career.jpg",
+        "caption": "Career Talk on stage",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2026/pameran-present.jpg",
+        "caption": "Pameran Coding 2026 w/ Kidilent",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/gallery/pameran.jpg",
+        "caption": "Pameran Coding crew",
+        "pair_with_next": false
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "color": "#2F5BEA",
+    "cover": "/media/journey/2025/cuantastic.jpg",
+    "photos": [
+      {
+        "image": "/media/journey/2025/rbb-headdress.jpg",
+        "caption": "RBB 2025 · Papuan headdress",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/rbb-kids.jpg",
+        "caption": "with the little ones",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/rbb-costume.jpg",
+        "caption": "dressed up for RBB night",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/rbb-selfie.jpg",
+        "caption": "RBB 2025 crew selfie",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/qa-mic.jpg",
+        "caption": "mic time, then helping hands-on",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/product-digital-era.jpg",
+        "caption": "Product Digital Era talk",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/cuantastic.jpg",
+        "caption": "Cuantastic, Makassar 💐",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2025/big-screen.jpg",
+        "caption": "presenting on the big screen",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/stage-white.jpg",
+        "caption": "sharing on stage",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2025/workshop-screen.jpg",
+        "caption": "workshop session",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/bwai-bogor.jpg",
+        "caption": "Build with AI · Bogor Chapter 2025",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2025/google-visit.jpg",
+        "caption": "visiting Google ✦",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/community-meetup.jpg",
+        "caption": "Community meetup, mic ready 🎤",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2025/gdg-stage.jpg",
+        "caption": "fun on the GDG stage",
+        "pair_with_next": false
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "color": "#1F9D55",
+    "cover": "",
+    "photos": [
+      {
+        "image": "/media/journey/2024/dcoc-devspace.jpg",
+        "caption": "DCOC Summit @ Google Developer Space",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/dcoc-thanks.jpg",
+        "caption": "thank you for joining the summit!",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2024/dcoc-squad.jpg",
+        "caption": "the DCOC squad ✦",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/dcoc-selfie.jpg",
+        "caption": "new friends at DCOC Summit",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/rise-talk.jpg",
+        "caption": "RISE session @ Tierspace",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2024/rise-panel.jpg",
+        "caption": "RISE speaker panel",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/rise-group.jpg",
+        "caption": "RISE speakers 🏆",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2024/rise-crew.jpg",
+        "caption": "RISE fam ✦",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/iwd-bogor-panel.jpg",
+        "caption": "IWD Bogor 2024 · Impact the Future",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/iwd-bogor-mic.jpg",
+        "caption": "sharing at IWD Bogor",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2024/iwd-bogor-stage.jpg",
+        "caption": "IWD Bogor stage",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/iwd-bogor-86.jpg",
+        "caption": "International Women's Day panel",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2024/bawean-solar.jpg",
+        "caption": "Survei Bawean · solar field",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/bawean-boat.jpg",
+        "caption": "off to Bawean island 🌊",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/bawean-pier.jpg",
+        "caption": "Bawean pier",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/merauke-okm.jpg",
+        "caption": "0 KM Merauke!",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2024/merauke-team.jpg",
+        "caption": "SCADA survey team, Merauke",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2024/merauke-dinner.jpg",
+        "caption": "team dinner in Merauke",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/gallery/gdg.jpg",
+        "caption": "sharing @ GDG",
+        "pair_with_next": false
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "color": "#F0459A",
+    "cover": "",
+    "photos": [
+      {
+        "image": "/media/journey/2023/edukreator.jpg",
+        "caption": "Akademi Edukreator × YouTube Learning",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/wtm-depok.jpg",
+        "caption": "WTM session @ DevFest Depok",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2023/devfest-depok.jpg",
+        "caption": "DevFest Depok, full house!",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/gtd-panel.jpg",
+        "caption": "AWS Girls' Tech Day panel",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/gtd-crowd.jpg",
+        "caption": "Girls' Tech Day crowd",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2023/devfest-crew.jpg",
+        "caption": "DevFest Depok speakers & crew",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/gtd-mic.jpg",
+        "caption": "sharing my story",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/depok-mic.jpg",
+        "caption": "on stage @ DevFest Depok",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2023/gtd-group.jpg",
+        "caption": "#AWSInCommunities",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/dinner.jpg",
+        "caption": "Girls in Hour ✦",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2023/dinner-group.jpg",
+        "caption": "Girls in Hour fam 💛",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/gih-selfie.jpg",
+        "caption": "selfie time @ Girls in Hour",
+        "pair_with_next": true
+      },
+      {
+        "image": "/media/journey/2023/gih-talk.jpg",
+        "caption": "sharing at Girls in Hour",
+        "pair_with_next": false
+      },
+      {
+        "image": "/media/journey/2023/devfest-bogor.jpg",
+        "caption": "DevFest Bogor 🦌",
+        "pair_with_next": false
+      }
+    ]
+  }
+]

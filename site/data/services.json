@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Content collab",
+    "who": "@luthfieta",
+    "where": "YouTube · IG · TikTok",
+    "icon": "🎬",
+    "image": "/media/projects/content-google.jpg",
+    "image_focus": "58% 45%",
+    "role": "IT edu content · Tech & AI reviews",
+    "stat": "36,901",
+    "stat_label": "followers, all platforms",
+    "button_label": "Let's collab ✉",
+    "button_url": "mailto:cendekialnazalia@gmail.com?subject=Content%20collaboration",
+    "tags": [
+      "Tutorials",
+      "Reviews",
+      "AI tools"
+    ],
+    "color": "#E8392B"
+  },
+  {
+    "title": "MC & Speaker",
+    "who": "Cendekia",
+    "where": "Indonesia",
+    "icon": "🎤",
+    "image": "/media/journey/2026/pakuan-stage.jpg",
+    "image_focus": "50% 30%",
+    "role": "MC · Speaker · Workshop host",
+    "stat": "50+ events",
+    "stat_label": "across cities",
+    "button_label": "Book me ✉",
+    "button_url": "mailto:cendekialnazalia@gmail.com?subject=MC%20%2F%20Speaker%20inquiry",
+    "tags": [
+      "Tech",
+      "Careers",
+      "Women in tech",
+      "AI"
+    ],
+    "color": "#2F5BEA"
+  },
+  {
+    "title": "Coding class for kids",
+    "who": "Kidilent",
+    "where": "Online",
+    "icon": "🧩",
+    "image": "/media/projects/kidilent-slb.jpg",
+    "image_focus": "40% 50%",
+    "role": "Ages 5–15 · Scratch · Tinkercad · Web",
+    "stat": "Free trial",
+    "stat_label": "flexible schedule",
+    "button_label": "Try a free class ↗",
+    "button_url": "https://kidilent.com/",
+    "tags": [
+      "Scratch",
+      "Tinkercad",
+      "HTML/CSS/JS"
+    ],
+    "color": "#F0459A"
+  },
+  {
+    "title": "Websites & apps",
+    "who": "UCEABLE",
+    "where": "Indonesia",
+    "icon": "💻",
+    "image": "/media/projects/uceable.jpg",
+    "image_focus": "50% 20%",
+    "role": "Web · Android/iOS · UI/UX · Chatbot",
+    "stat": "For businesses",
+    "stat_label": "company profiles to apps",
+    "button_label": "Start a project ↗",
+    "button_url": "https://uceable.com/en",
+    "tags": [
+      "Web",
+      "Mobile",
+      "UI/UX",
+      "Chatbot"
+    ],
+    "color": "#1F9D55"
+  }
+]

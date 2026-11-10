@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Kidilent",
+    "period": "2021 – Now",
+    "role": "Founder · Edu startup",
+    "tagline": "An online tech school where kids aged 5–15 turn curiosity into real projects, guided by industry mentors.",
+    "points": [
+      {
+        "bold": "3 programs:",
+        "text": "Creative Coding & Game Dev (Scratch), 3D Design & Creative Engineering (Tinkercad), Junior Web Development."
+      },
+      {
+        "bold": "Pameran Coding 2026:",
+        "text": "a showcase where students present the games and projects they built."
+      },
+      {
+        "bold": "Komunitas Kelas Koding",
+        "text": "with PLN Icon Plus, bringing coding classes to children with special needs at SLB River Kids Malang (2026)."
+      }
+    ],
+    "link_label": "View project",
+    "link_url": "https://kidilent.com/",
+    "show_products": false,
+    "image": "/media/projects/kidilent-slb.jpg",
+    "image_alt": "Cendekia teaching a Kidilent coding class at SLB River Kids Malang",
+    "image_focus": "40% 50%",
+    "background": "#2F5BEA",
+    "text_color": "#fff",
+    "highlight": "#FFD54A",
+    "tilt": 2.0,
+    "image_ratio": "wide"
+  },
+  {
+    "title": "UCEABLE",
+    "period": "Now",
+    "role": "Co-Founder · Software studio",
+    "tagline": "CV UCE Absolute Technology builds websites, mobile apps, UI/UX and chatbots for businesses across industries.",
+    "points": [
+      {
+        "bold": "Learntera:",
+        "text": "a digital education platform for UTBK preparation and school management."
+      },
+      {
+        "bold": "Active Mandarin:",
+        "text": "a company profile website."
+      },
+      {
+        "bold": "Transprima Bangka:",
+        "text": "a car rental and open trip website."
+      }
+    ],
+    "link_label": "View project",
+    "link_url": "https://uceable.com/en",
+    "show_products": false,
+    "image": "/media/projects/uceable.jpg",
+    "image_alt": "Websites built by UCEABLE: BYD, Komitras, AKSARA, Active Mandarin and Learntera",
+    "image_focus": "50% 50%",
+    "background": "#141414",
+    "text_color": "#F1F0EC",
+    "highlight": "#8EE59B",
+    "tilt": -2.0,
+    "image_ratio": "wide"
+  },
+  {
+    "title": "SCADA & AMI planning",
+    "period": "2023 – Now",
+    "role": "Project Management Officer · PLN Icon Plus",
+    "tagline": "Planning grid technology services at PLN Icon Plus, from the desk all the way to the field.",
+    "points": [
+      {
+        "bold": "SCADA & AMI service planning",
+        "text": "for electricity grid monitoring and smart metering."
+      },
+      {
+        "bold": "Field surveys",
+        "text": "in Merauke, Papua and on Bawean island."
+      },
+      {
+        "bold": "Now in risk & compliance",
+        "text": ", ITIL Foundation (v5) certified."
+      }
+    ],
+    "link_label": "View on LinkedIn",
+    "link_url": "https://www.linkedin.com/in/cendekialnazalia",
+    "show_products": false,
+    "image": "/media/projects/pln-bawean-solar.jpg",
+    "image_alt": "Cendekia with the PLN team at the solar power plant during the Bawean field survey",
+    "image_focus": "50% 50%",
+    "background": "#F2C230",
+    "text_color": "#111",
+    "highlight": "#2F5BEA",
+    "tilt": 2.5,
+    "image_ratio": "4:3"
+  },
+  {
+    "title": "Digital Products",
+    "period": "Available now",
+    "role": "Digital products · lynk.id",
+    "tagline": "Ready-to-use resources from my own work: a thesis, code, study notes and a planner template.",
+    "points": [
+      {
+        "bold": "Thesis & code:",
+        "text": "CNN pest detection and batik classification, dataset included."
+      },
+      {
+        "bold": "Study notes:",
+        "text": "step-by-step CNN convolution and OBE formulas."
+      },
+      {
+        "bold": "Template:",
+        "text": "the wedding sheet planner I used for my own wedding."
+      }
+    ],
+    "link_label": "Shop on lynk.id",
+    "link_url": "https://lynk.id/luthfieta",
+    "show_products": true,
+    "image": "",
+    "image_alt": "",
+    "image_focus": "50% 50%",
+    "background": "#F0459A",
+    "text_color": "#fff",
+    "highlight": "#FFE27A",
+    "tilt": -2.0,
+    "image_ratio": "wide"
+  }
+]

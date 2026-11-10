@@ -1,0 +1,283 @@
+# Pages CMS config (https://pagescms.org) for the Cendekia portfolio.
+# Every entry edits one JSON file in site/data/. Uploaded photos go to site/media/.
+
+media:
+  input: site/media
+  output: /media
+  categories: [image]
+
+content:
+  # ---------------- Journey ----------------
+  - name: journey
+    label: Journey (buku per tahun)
+    type: file
+    path: site/data/journey.json
+    format: json
+    list: true
+    fields:
+      - name: year
+        label: Tahun
+        type: number
+        required: true
+      - name: color
+        label: Warna buku (hex, mis. #E8392B)
+        type: string
+      - name: cover
+        label: Foto sampul (kosongkan = pakai foto pertama)
+        type: image
+      - name: photos
+        label: Foto
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{caption}"
+        fields:
+          - name: image
+            label: Foto
+            type: image
+            required: true
+          - name: caption
+            label: Caption
+            type: string
+          - name: pair_with_next
+            label: Satu halaman dengan foto berikutnya
+            type: boolean
+
+  # ---------------- Projects ----------------
+  - name: projects
+    label: Projects
+    type: file
+    path: site/data/projects.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Judul
+        type: string
+        required: true
+      - name: period
+        label: Periode (mis. 2021 – Now)
+        type: string
+      - name: role
+        label: Peran
+        type: string
+      - name: tagline
+        label: Deskripsi singkat
+        type: text
+      - name: points
+        label: Poin-poin
+        type: object
+        list: true
+        fields:
+          - name: bold
+            label: Bagian tebal (opsional)
+            type: string
+          - name: text
+            label: Teks
+            type: string
+      - name: link_label
+        label: Teks link
+        type: string
+      - name: link_url
+        label: URL link
+        type: string
+      - name: show_products
+        label: Tampilkan produk digital (bukan foto)
+        type: boolean
+      - name: image
+        label: Foto
+        type: image
+      - name: image_alt
+        label: Deskripsi foto (untuk aksesibilitas)
+        type: string
+      - name: image_focus
+        label: Titik fokus foto (mis. 50% 50%)
+        type: string
+      - name: image_ratio
+        label: Bentuk bingkai foto
+        type: select
+        options:
+          values: [wide, "4:3", square]
+      - name: background
+        label: Warna map (hex)
+        type: string
+      - name: text_color
+        label: Warna teks (hex)
+        type: string
+      - name: highlight
+        label: Warna aksen (hex)
+        type: string
+      - name: tilt
+        label: Kemiringan foto (derajat)
+        type: number
+
+  # ---------------- Digital products ----------------
+  - name: products
+    label: Produk digital
+    type: file
+    path: site/data/products.json
+    format: json
+    list: true
+    fields:
+      - name: kind
+        label: Jenis (mis. Code, Study notes)
+        type: string
+      - name: name
+        label: Nama produk
+        type: string
+        required: true
+      - name: price
+        label: Harga (mis. IDR 50K)
+        type: string
+      - name: url
+        label: Link lynk.id
+        type: string
+      - name: color
+        label: Warna (hex)
+        type: string
+
+  # ---------------- Work with me ----------------
+  - name: services
+    label: Work with me (kartu jasa)
+    type: file
+    path: site/data/services.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Judul
+        type: string
+        required: true
+      - name: who
+        label: Nama / brand
+        type: string
+      - name: where
+        label: Lokasi / platform
+        type: string
+      - name: icon
+        label: Ikon (emoji)
+        type: string
+      - name: image
+        label: Foto
+        type: image
+      - name: image_focus
+        label: Titik fokus foto (mis. 50% 30%)
+        type: string
+      - name: role
+        label: Keterangan
+        type: string
+      - name: stat
+        label: Angka utama (mis. 50+ events)
+        type: string
+      - name: stat_label
+        label: Keterangan angka
+        type: string
+      - name: button_label
+        label: Teks tombol
+        type: string
+      - name: button_url
+        label: Link tombol (https:// atau mailto:)
+        type: string
+      - name: tags
+        label: Tag
+        type: string
+        list: true
+      - name: color
+        label: Warna (hex)
+        type: string
+
+  # ---------------- Achievements ----------------
+  - name: achievements
+    label: Achievements
+    type: file
+    path: site/data/achievements.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Pencapaian
+        type: string
+        required: true
+      - name: detail
+        label: Keterangan
+        type: string
+
+  # ---------------- Testimonial ----------------
+  - name: testimonial
+    label: Testimoni
+    type: file
+    path: site/data/testimonial.json
+    format: json
+    fields:
+      - name: label
+        label: Label kecil
+        type: string
+      - name: quote
+        label: Kutipan
+        type: text
+      - name: name
+        label: Nama
+        type: string
+      - name: role
+        label: Jabatan / keterangan
+        type: string
+
+  # ---------------- Collaborated with ----------------
+  - name: partners
+    label: Collaborated with
+    type: file
+    path: site/data/partners.json
+    format: json
+    fields:
+      - name: row_1
+        label: Baris 1
+        type: string
+        list: true
+      - name: row_2
+        label: Baris 2
+        type: string
+        list: true
+
+  # ---------------- Hero slides ----------------
+  - name: hero
+    label: Hero (slide peran)
+    type: file
+    path: site/data/hero.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Judul
+        type: string
+      - name: meta
+        label: Label kecil
+        type: string
+      - name: desc
+        label: Deskripsi
+        type: text
+      - name: color
+        label: Warna (hex)
+        type: string
+      - name: cutout
+        label: Foto potongan (jangan diubah)
+        type: string
+        hidden: true
+      - name: size
+        type: number
+        hidden: true
+
+  # ---------------- Contact ----------------
+  - name: contact
+    label: Let's connect (tombol kontak)
+    type: file
+    path: site/data/contact.json
+    format: json
+    list: true
+    fields:
+      - name: label
+        label: Teks tombol
+        type: string
+      - name: url
+        label: Link
+        type: string
